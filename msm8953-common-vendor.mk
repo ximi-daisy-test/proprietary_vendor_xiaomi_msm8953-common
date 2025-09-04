@@ -410,7 +410,6 @@ PRODUCT_PACKAGES += \
     slim_daemon \
     tftp_server \
     thermal-engine \
-    wcnss_service_xiaomi \
     xtra-daemon \
     dpmd
 
